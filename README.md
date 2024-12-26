@@ -2,15 +2,11 @@
 
 **SmartAgro** is a mobile application designed to be an accessible platform for analyzing and managing agricultural data by collecting information from sensors in planting systems.
 
----
-
-## Overview
+## Overview🌱
 
 **SmartAgro** was created to address the challenge posed by our mentor: the lack of an optimized environment control system to support strategic decision-making in agricultural production management.
 
----
-
-## Solution
+## Solution   
 
 **SmartAgro** offers a comprehensive solution with features designed to improve the management of agricultural activities. Through intuitive tools and data analysis, the platform facilitates planning, monitoring, and execution of field operations.
 
@@ -58,7 +54,7 @@
   
 ---
 
-### Development Team
+### Development Team 👥
 
 - [Gabriel Demétrio](https://www.linkedin.com/in/gabriel-dem%C3%A9trio-a06820275/)
 - [Maurício Marques]([https://www.linkedin.com/in/paulohgo/](https://www.linkedin.com/in/maur%C3%ADcio-marques-p/))
@@ -67,7 +63,7 @@
 
 ---
 
-### Architecture
+### Architecture Overview
 
 The architecture of **SmartAgro** is divided into two main layers:
 
@@ -76,9 +72,7 @@ The architecture of **SmartAgro** is divided into two main layers:
 
 The frontend communicates with the backend through API calls to handle user interactions, which are then processed and stored in SQL Server, ensuring a fluid and responsive user experience.
 
----
-
-### Technologies
+## Technologies 🛠
 
 - **Frontend**:
   - .NET MAUI
