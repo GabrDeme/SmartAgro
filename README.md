@@ -57,9 +57,9 @@
 ### Development Team 👥
 
 - [Gabriel Demétrio](https://www.linkedin.com/in/gabriel-dem%C3%A9trio-a06820275/)
-- [Maurício Marques]([https://www.linkedin.com/in/paulohgo/](https://www.linkedin.com/in/maur%C3%ADcio-marques-p/))
+- [Maurício Marques](https://www.linkedin.com/in/maur%C3%ADcio-marques-p/)
 - [Pedro H. Alves](https://www.linkedin.com/in/pedro-henrique-alves-de-freitas-287b85276/)
-- [Wender de Castro]([https://www.linkedin.com/in/richardrichk/](https://www.linkedin.com/in/wender-de-castro/))
+- [Wender de Castro](https://www.linkedin.com/in/wender-de-castro/)
 
 ---
 
@@ -121,7 +121,7 @@ The frontend communicates with the backend through API calls to handle user inte
 
 **Notification Screen**
 
-<img alt="" height="390" width="144" src="/Assets/Notification.png">
+<img alt="" height="390" width="144" src="/Assets/Notifications.png">
 
 **Profile Screen**
 
