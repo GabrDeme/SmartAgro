@@ -91,38 +91,38 @@ The frontend communicates with the backend through API calls to handle user inte
 
 **Login Screen**
 
-<img alt="" src="/Assets/Login.png">
+<img alt="" height="310" width="144" src="/Assets/Login.png">
 
 **Register Screen**
 
-<img alt="" src="/Assets/Register.png">
+<img alt="" height="310" width="144" src="/Assets/Register.png">
 
 **Recover Account Screen**
 
-<img alt="" src="/Assets/RecoverAccount.png">
+<img alt="" height="310" width="144" src="/Assets/RecoverAccount.png">
 
 **Reset Password Screen**
 
-<img alt="" src="/Assets/ResetPassword.png">
+<img alt="" height="310" width="144" src="/Assets/ResetPassword.png">
 
 ## Planting Plataform Flow
 
 **Home Screen**
 
-<img alt="" src="/Assets/Home.png">]
+<img alt="" height="310" width="144" src="/Assets/Home.png">]
 
 **Planting Plataform Screen**
 
-<img alt="" src="/Assets/Sensor.png">
+<img alt="" height="524" width="144" src="/Assets/Sensor.png">
 
 **Planting Plataform Edit Screen**
 
-<img alt="" src="/Assets/EditSensor.png">
+<img alt="" height="310" width="144" src="/Assets/EditSensor.png">
 
 **Notification Screen**
 
-<img alt="" src="/Assets/Notification.png">
+<img alt="" height="390" width="144" src="/Assets/Notification.png">
 
 **Profile Screen**
 
-<img alt="" src="/Assets/Profile.png">
+<img alt="" height="310" width="144" src="/Assets/Profile.png">
