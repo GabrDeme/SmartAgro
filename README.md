@@ -85,4 +85,44 @@ The frontend communicates with the backend through API calls to handle user inte
 
 ---
 
+# Project Flow
 
+## Login Flow
+
+**Login Screen**
+
+<img alt="" src="/Assets/Login.png">
+
+**Register Screen**
+
+<img alt="" src="/Assets/Register.png">
+
+**Recover Account Screen**
+
+<img alt="" src="/Assets/RecoverAccount.png">
+
+**Reset Password Screen**
+
+<img alt="" src="/Assets/ResetPassword.png">
+
+## Planting Plataform Flow
+
+**Home Screen**
+
+<img alt="" src="/Assets/Home.png">]
+
+**Planting Plataform Screen**
+
+<img alt="" src="/Assets/Sensor.png">
+
+**Planting Plataform Edit Screen**
+
+<img alt="" src="/Assets/EditSensor.png">
+
+**Notification Screen**
+
+<img alt="" src="/Assets/Notification.png">
+
+**Profile Screen**
+
+<img alt="" src="/Assets/Profile.png">
