@@ -130,5 +130,5 @@ The frontend communicates with the backend through API calls to handle user inte
 ## You can also find in
 
 <div height="30">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7278411159102197760/" target="_blank"></a>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7278411159102197760/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
