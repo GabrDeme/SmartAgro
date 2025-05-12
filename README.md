@@ -126,3 +126,9 @@ The frontend communicates with the backend through API calls to handle user inte
 **Profile Screen**
 
 <img alt="" height="310" width="144" src="/Assets/Profile.png">
+
+## You can also find in
+
+<div height="30">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7278411159102197760/" target="_blank"></a>
+</div>
